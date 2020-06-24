@@ -1,0 +1,3 @@
+rootProject.name='libreriaa'
+include ':app'
+include ':onboarding_library'

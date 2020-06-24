@@ -1,0 +1,22 @@
+<resources>
+    <!--nombre app-->
+    <string name="app_name">Library</string>
+
+    <!--pantalla uno-->
+    <string name="title1">Frangmente de bienvenida</string>
+    <string name="desc1">Descripcion primer fragment.</string>
+
+    <!--pantalla dos-->
+    <string name="title2">Title fragment 2</string>
+    <string name="desc2">Descripcion segundoo fragment</string>
+
+    <!--pantalla tres-->
+    <string name="title3">Title fragment 3</string>
+    <string name="desc3">Descripcion tercer fragment</string>
+
+    <!--botonera-->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="done">Finalizar</string>
+
+</resources>
