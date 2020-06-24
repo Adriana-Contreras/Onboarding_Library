@@ -2,16 +2,21 @@
 Es una libreria que genera 3 fragments para la creacion de onboardings
 
 
+![Recordit GIF](https://i.pinimg.com/originals/f8/7c/6b/f87c6b63fb78859b70adcc91fb67df6b.gif)
+
+
 **Instrucciones**
 > Paso 1 
 Agregre la libreria de jitpack
 
+
 allprojects {
-		repositories {
+	repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
+  
   
 
 > Paso2 
@@ -23,8 +28,18 @@ dependencies {
           
 	}
   
+  
 
 > Paso3
+Agregue el viewPager dentro del Activity_Main.xml
+
+ - <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPagerContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">	
+    </androidx.viewpager.widget.ViewPager>
+
+
 
 
 > Herramientas
