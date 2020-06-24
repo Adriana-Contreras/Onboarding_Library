@@ -5,6 +5,10 @@ Es una libreria que genera 3 fragments para la creacion de onboardings a continu
 ![Recordit GIF](https://i.pinimg.com/originals/f8/7c/6b/f87c6b63fb78859b70adcc91fb67df6b.gif)
 
 
+**Recomendaciones Previas**
+Cree un proyecto nuevo en Android studio y  siga las instrucciones :D
+
+
 **Instrucciones**
 > Paso 1 
 Agregre la libreria de jitpack
@@ -50,7 +54,7 @@ Agregue el viewPager dentro del Activity_Main.xml
 **Android Studio**
 
 
-![Recordit GIF](https://i.pinimg.com/originals/9d/da/7e/9dda7e21cd11f5003c5b3b9e2a97a5b8.gif)
+![Recordit GIF](https://miro.medium.com/max/1280/0*rjQbHZagKdhWRp1Y.gif)
 
 
 ## Team
