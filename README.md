@@ -1,5 +1,5 @@
 # Onboarding_Library
-Es una libreria que genera 3 fragments para la creacion de onboardings
+Es una libreria que genera 3 fragments para la creacion de onboardings a continuación se puede ver un ejemplo relacionado 
 
 
 ![Recordit GIF](https://i.pinimg.com/originals/f8/7c/6b/f87c6b63fb78859b70adcc91fb67df6b.gif)
